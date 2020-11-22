@@ -1,0 +1,122 @@
+*{/* Home */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+  text-align: center;
+  line-height: 150px;
+}
+
+h3{
+  text-align: left;
+  padding-bottom: 2%;
+}
+
+main{
+  width: 100%;
+  height: auto;
+  overflow: auto;
+  text-decoration: none;
+  color: #000000;
+  background: #000000;
+}
+
+header{
+  width: 100%;
+  height: 80px;
+  background-color: #53a919;
+}
+
+nav{
+  width: 75%;
+  height: 70px;
+  background: #53a919;
+  margin-left: 24%;
+}
+
+nav a{
+  width: 15%;
+  height: 80px;
+  float: left;
+  display: block;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  font-size: 17px;
+  line-height: 80px;
+  font-weight: 0.1;
+}
+
+nav a:hover{
+  background: #0055b8;
+  transition: 0.6s;
+}
+
+section{
+  width: 100%;
+  height: auto;
+  background: #000000;
+  margin-bottom: 10%;
+}
+
+#overview{
+  width: 90%;
+  height: auto;
+  margin-left: 5%;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+section p{
+  margin-top: 5px;
+  padding-bottom: 2px;
+}
+
+#ocean-organisation img{ /* alterantive name for 4Ocean */
+  width: 10%;
+  height: auto;
+  margin-left: 10%;
+  margin-top: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  float: left; 
+}
+
+#gone-west-global img{
+  width: 10%;
+  height: auto;
+  margin-left: 10%;
+  margin-top: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  float: left; 
+}
+
+#plant-4-planet img{
+  width: 10%;
+  height: auto;
+  margin-left: 10%;
+  margin-top: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  float: left; 
+}
+
+#legend-bracelet img{
+  width: 10%;
+  height: auto;
+  margin-left: 10%;
+  margin-top: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  float: left; 
+}
+
+footer{
+  width: 100%;
+  height: 210px;
+  background: #53a919;
+}
